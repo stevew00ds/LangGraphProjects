@@ -92,7 +92,7 @@ pip install langgraph langchain_openai python-dotenv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/langgraph-blueprint.git
+   git clone https://github.com/jkmaina/LangGraphProjects.git
    cd langgraph-blueprint
    ```
 
@@ -118,10 +118,10 @@ pip install langgraph langchain_openai python-dotenv
 
 ### Running Your First AI Agent
 
-- Navigate to the `/examples/hello_world` directory.
+- Navigate to the `/chapter1/lesson1a.py` directory.
 - Run the Hello World LangGraph workflow:
    ```bash
-   python hello_world.py
+   python lesson1a.py
    ```
 
 ---
