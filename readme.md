@@ -1,6 +1,6 @@
 # The Complete LangGraph Blueprint: Build 50+ AI Agents for Business Success
 
-[![The Complete LangGraph Blueprint - Book Cover](https://m.media-amazon.com/images/I/71yR8ReePcL._SY466_.jpg)](https://www.amazon.com/Complete-LangGraph-Blueprint-Business-Success-ebook/dp/B0DP69QV7K)
+[![The Complete LangGraph Blueprint - Book Cover](https://m.media-amazon.com/images/I/81DpVdSAclL._SY466_.jpg)](https://www.amazon.com/Complete-LangGraph-Blueprint-Business-Success-ebook/dp/B0DP69QV7K)
 
 Welcome to the official repository for **The Complete LangGraph Blueprint**, authored by James Karanja Maina. This book guides you through creating 50+ AI agents for real-world business applications using LangGraph and other cutting-edge AI tools.
 
